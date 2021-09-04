@@ -1,0 +1,18 @@
+Thanks for downloading this pack,
+I don't actually know how to change other mods' icons so the installation is a bit different, In this case, you need to change the mod itself
+
+Scatterer:
+
+For scatterer, go to Gamedata/scatterer/icon and replace the image with the one in ModIcons/scatterer
+
+EVE:
+
+For EnvironmentalVisualEnhancements, go to Gamedata/EnvironmentalVisualEnhancements, and replace button.png with the button.png in ModIcons/EVE
+
+Planetshine:
+
+For Planetshine, go to Gamedata/PlanetShine/Icons and drag the three images from ModIcons/PS over there, when prompted, click replace
+
+DistantObjectEnhancements:
+
+For DOE, go to Gamedata/DistantObject/Icons and drag the four images from ModIcons/DOE over, when prompted, click replace
