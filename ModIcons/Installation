@@ -16,3 +16,15 @@ For Planetshine, go to Gamedata/PlanetShine/Icons and drag the three images from
 DistantObjectEnhancements:
 
 For DOE, go to Gamedata/DistantObject/Icons and drag the four images from ModIcons/DOE over, when prompted, click replace
+
+ClickThroughBlocker:
+
+For CTB, go to Gamedata/000_ClickThroughBlocker/PluginData and drag all 9 images from ModIcons/CTB over, when prompted, click replace
+
+ToolbarController:
+
+For TC, go to Gamedata/001_ToolbarControl/PluginData/Textures and drag both images from ModIcons/TC over, when prompted, click replace
+
+VesselViewer:
+
+For VV, go to Gamedata/VesselView/Textures and drag all 4 images from ModIcons/VV over, when prompted, click replace
